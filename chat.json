@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned on the app?\", \"option1\": \"On the main screen, near the top\", \"option2\": \"At the bottom of the screen, within easy reach\"}, {\"question 2\": \"What action should occur when the 'Hello World' button is clicked?\", \"option1\": \"Display a pop-up message saying 'Hello World'\", \"option2\": \"Navigate to a new screen with detailed information\"}], \"input_token_count\": 261, \"output_token_count\": 110, \"time_taken\": \"0:00:03.934248\"}",
+        "message_id": "guest25072024165309",
+        "timestamp": "25072024165317",
+        "component_file_name": "purple_header_component_1721926327",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic transaction filtering options\", \"checked\": true}, {\"feature\": \"Real-time Ethereum price display\", \"checked\": false}, {\"feature\": \"Customizable alert system for suspicious transactions\", \"checked\": true}, {\"feature\": \"Interactive transaction graph visualization\", \"checked\": false}, {\"feature\": \"Dark/Light mode toggle\", \"checked\": true}, {\"feature\": \"User authentication system for personalized settings\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 104, \"time_taken\": \"0:00:03.811598\"}",
         "message_id": "guest25072024165309",
